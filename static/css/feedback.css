@@ -1,0 +1,19 @@
+#top-head {
+    width: 342px;
+    height: 86px;
+    margin: 0px auto;
+    margin-top: 80px;
+    background-image: url("../img/feedback-top-head.png")
+}
+
+
+.des-title {
+    width:820px;
+    height:25px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size:20px;
+    font-weight:600;
+    color:#333333;
+    line-height:28px;
+}

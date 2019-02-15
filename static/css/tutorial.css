@@ -1,0 +1,56 @@
+#top-head {
+    width: 314px;
+    height: 86px;
+    margin: 0px auto;
+    margin-top: 80px;
+    background-image: url("../img/tutorial-top-head.png")
+}
+
+#download-des {
+    width: 820px;
+    height: 201px;
+    margin: 0px auto;
+    margin-top: 80px;
+}
+
+.des-word {
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+    font-weight:400;
+}
+
+.title-word {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    line-height: 22px;
+    color: #333333;
+    font-weight:600;
+}
+
+.des-word .link-word{
+    color: #007CFF;
+}
+
+#download-picture {
+    width: 638px;
+    height: 400px;
+    margin: 0px auto;
+    margin-top: 40px;
+    background-image: url("../img/tutorial-download-picture.png")
+}
+
+#run-des {
+    width:820px;
+    height:267px;
+    margin: 0px auto;
+    margin-top: 53px;
+}
+
+#run-picture {
+    width: 606px;
+    height: 400px;
+    margin: 40px auto 60px;
+    background-image: url("../img/tutorial-run-picture.png")
+}

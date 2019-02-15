@@ -1,0 +1,181 @@
+@media (min-width: 768px){ 
+	#navbar {
+		float: right;
+		margin-top: 13px;
+	}
+	.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+	  color: rgba(255,255,255,1);
+	  background-color: rgba(14,34,73,1);
+	  border-bottom: 4px solid rgba(111,181,255,1);
+	  font-weight: 600;
+	}
+
+	.navbar-inverse .navbar-nav > li > a {
+	  color:rgba(255,255,255,1);
+	 
+	}
+
+	.navbar-inverse{
+	  background-color: #fff;
+	  border-color:rgba(14,34,73,1);
+	}
+}
+@media (max-width: 768px){ 
+	/* Turn OFF Animate.css on Mobile Devices */
+	.animated {
+    /*CSS transitions*/
+    -o-transition-property: none !important;
+    -moz-transition-property: none !important;
+    -ms-transition-property: none !important;
+    -webkit-transition-property: none !important;
+    transition-property: none !important;
+    /*CSS transforms*/
+    -o-transform: none !important;
+    -moz-transform: none !important;
+    -ms-transform: none !important;
+    -webkit-transform: none !important;
+    transform: none !important;
+    /*CSS animations*/
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
+  }
+}
+
+
+
+body {
+    font-family: "Microsoft Yahei", "微软雅黑";
+    line-height: 1.42857143;
+}
+
+.navbar {
+	height: 80px;
+	margin-bottom: 0px;
+	background:rgba(14,34,73,1);
+}
+
+#brand{
+	width: 48px;
+	height: 48px;
+	margin-top: 16px;
+	background-image: url("../img/logo.png");
+	background-position: left center;
+	background-repeat: no-repeat;
+}
+
+#logo-word {
+	float: left;
+	margin-left: 24px;
+	margin-top: 26px;
+	font-size: 20px;
+	font-weight:600;
+	height:28px;
+	color:rgba(255,255,255,1);
+	line-height:28px;
+}
+
+.nav > li > a{
+	padding: 15px 15px;
+}
+
+#top-line {
+	margin-top: 80px;
+}
+
+
+/*页脚-begin*/
+#bottom {
+	max-width: 1440px;
+	font-size:16px;
+	font-weight:400;
+	color:rgba(175,183,204,1);	
+}
+#bottom-banner {
+	height: 320px;
+	background-image: url("../img/bottom-banner.png");
+}
+
+#bottom-banner .large-word {
+	width:528px;
+	height:67px;
+	margin: 102px auto 0px;
+	font-size:48px;
+	font-weight:400;
+	color: #ffffff;
+	line-height:67px;
+}
+
+#bottom-banner .little-word {
+	width:335px;
+	height:33px;
+	margin: 16px auto 0px;
+	font-size:24px;
+	font-weight:400;
+	color:#ffffff;
+	line-height:33px;
+}
+
+#bottom-logo-wrap {
+	height: 32px;
+	margin-top: 150px;
+}
+
+#bottom-logo {
+	float: left;
+	width: 32px;
+	height: 32px;
+	background-image: url("../img/logo-little.png");
+}
+
+#bottom-logo-word {
+	float: left;
+	height:28px;
+	margin-top: 2px;
+	margin-left: 16px;
+	font-size:20px;
+	font-weight:400;
+	color:rgba(175,183,204,1);
+	line-height:28px;
+}
+
+#feedback-wrap {
+	height: 22px;
+	margin-top: 65px;
+	line-height: 22px;
+}
+
+#copyright {
+	height: 22px;
+	margin-top: 24px;
+	line-height: 22px;
+	margin-bottom: 80px;
+}
+
+#bottom-link-wrap {
+	margin-top: 150px;
+	margin-bottom: 80px;
+}
+
+#bottom-link-wrap .link-title {
+	font-size:18px;
+	font-weight:400;
+	color:rgba(134,142,165,1);
+}
+
+#bottom-link-wrap .link {
+	display: block;
+	height:22px;
+	margin-top: 24px;
+	font-size:16px;
+	font-weight:400;
+	color:rgba(175,183,204,1);
+	line-height:22px;
+}
+
+/*页脚-end*/
+
+/*首页，产品详情，软件中心共用-begin*/
+/*首页，产品详情，软件中心共用-end*/

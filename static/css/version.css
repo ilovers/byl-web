@@ -1,0 +1,45 @@
+#top-head {
+    width: 314px;
+    height: 86px;
+    margin: 0px auto;
+    margin-top: 80px;
+    background-image: url("../img/version-top-head.png")
+}
+
+.des-title {
+    width:820px;
+    height:25px;
+    margin-top: 80px;
+    font-size:20px;
+    font-weight:600;
+    color:#333333;
+    line-height:28px;
+}
+
+#v215-picture {
+  width: 638px;
+  height: 400px;
+  margin-top: 40px;
+  background-image: url("../img/version-v215-picture.png") 
+}
+
+.des-detail {
+    width:820px;
+    margin-top: 20px;
+    font-size:16px;
+    font-weight:400;
+    color:#333333;
+    line-height:22px;
+}
+
+#bofan-id {
+    margin-top: 40px;
+}
+
+#v315-picture {
+    width: 570px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    background-image: url("../img/version-v315-picture.png") 
+}

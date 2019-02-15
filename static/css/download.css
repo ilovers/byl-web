@@ -1,0 +1,86 @@
+#top-head {
+    width: 377px;
+    height: 86px;
+    margin: 0px auto;
+    margin-top: 80px;
+    background-image: url("../img/download-top-head.png")
+}
+
+#vip-wrap {
+    height: 320px;
+    margin-top: 80px;
+	background-image: url("../img/vip-wrap.png")
+}
+
+#vip-trial-free {
+	width:331px;
+	height:45px;
+	margin-top: 117px;
+	margin-left: 40%;
+	font-size:32px;
+	font-weight:600;
+	color:rgba(255,255,255,1);
+	line-height:45px;
+}
+
+#vip-new-discount {
+	width:361px;
+	height:28px;
+	margin-top: 12px;
+	margin-left: 40%;
+	font-size:20px;
+	font-weight:400;
+	color:rgba(255,255,255,1);
+	line-height:28px;
+}
+
+#vip-download {
+	display: block;
+	width:320px;
+	height:80px;
+	margin-top: 118px;
+	margin-left: 10%;
+	background:rgba(255,255,255,1);
+	box-shadow:0px 2px 32px 0px rgba(0,30,127,0.25);
+	border-radius:8px;
+}
+
+#vip-download-logo {
+	float: left;
+	width: 42px;
+	height: 32px;
+	margin: 24px 16px 24px 83px;
+	background-image: url("../img/vip-download-logo.png")
+}
+
+#vip-download-word {
+	float: left;
+	width:96px;
+	height:33px;
+	margin: 24px 83px 23px 0px;
+	font-size:24px;
+	font-weight:600;
+	color:rgba(62,100,255,1);
+	line-height:33px;
+}
+
+#vip-download-version {   
+    width:260px;
+    height:22px;
+    margin-top: 15px;
+	margin-left: 20%;
+    font-size:16px;
+    font-weight:600;
+    color: #ffffff;
+    line-height:22px;
+}
+
+#tips {
+    width:820px;
+    height:64px;
+    margin: 80px auto;
+    font-size:20px;
+    font-weight:400;
+    color:rgba(51,51,51,1);
+    line-height:28px;
+}

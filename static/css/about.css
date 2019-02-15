@@ -1,0 +1,30 @@
+#top-head {
+    width: 220px;
+    height: 86px;
+    margin: 0px auto;
+    margin-top: 80px;
+    background-image: url("../img/about-top-head.png")
+}
+
+#des-block {
+    width:840px;
+    height:314px;
+    margin: 80px auto;
+    color: #333333;
+}
+
+.des-title {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+}
+
+.des-detail {
+    margin: 40px 0px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.des-detail p {
+    margin: 0px;
+}
