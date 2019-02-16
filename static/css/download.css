@@ -3,13 +3,17 @@
     height: 86px;
     margin: 0px auto;
     margin-top: 80px;
-    background-image: url("../img/download-top-head.png")
+    background-image: url("../img/download-top-head.png");
 }
 
 #vip-wrap {
     height: 320px;
     margin-top: 80px;
-	background-image: url("../img/vip-wrap.png")
+	background-image: url("../img/vip-wrap.png");
+	background-size: cover;  
+	-webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-o-background-size: cover; 
 }
 
 #vip-trial-free {

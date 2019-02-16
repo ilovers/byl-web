@@ -88,14 +88,19 @@ body {
 
 /*页脚-begin*/
 #bottom {
-	max-width: 1440px;
+	margin: 0px auto;
 	font-size:16px;
 	font-weight:400;
 	color:rgba(175,183,204,1);	
 }
+
 #bottom-banner {
 	height: 320px;
 	background-image: url("../img/bottom-banner.png");
+	background-size: cover;  
+	-webkit-background-size: cover; 
+	-moz-background-size: cover; 
+	-o-background-size: cover; 
 }
 
 #bottom-banner .large-word {
