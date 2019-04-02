@@ -1,2 +1,2 @@
-# byl_web
+# byl-web
 website code of [biyingli.com](http://biyingli.com/).
